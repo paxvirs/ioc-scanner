@@ -1,5 +1,4 @@
 IOC Scanner
-
 A Python-based Indicator of Compromise (IOC) Scanner designed to detect suspicious IP addresses and domains within log files and text-based data sources. The tool compares observed indicators against a predefined threat intelligence list and generates alerts when matches are found.
 
 Project Overview
@@ -9,11 +8,12 @@ Indicators of Compromise (IOCs) are pieces of information that may indicate mali
 This project was developed to gain practical experience with threat detection, threat intelligence concepts, log analysis, and Python automation.
 
 Features
- Detects suspicious IP addresses
- Detects suspicious domains
- Scans log files for indicators of compromise
- Generates security alerts for detected IOCs
- Supports threat intelligence-based detection workflows
+Detects suspicious IP addresses
+Detects suspicious domains
+Scans log files for known indicators
+Generates security alerts for detected IOCs
+Simple and lightweight implementation
+Easy to expand with additional threat intelligence feeds
 Technologies Used
 Python
 Threat Intelligence Concepts
