@@ -1,0 +1,7 @@
+User connected to google.com
+
+Connection detected to 185.220.101.45
+
+User visited malicious-domain.com
+
+Normal traffic detected to microsoft.com
